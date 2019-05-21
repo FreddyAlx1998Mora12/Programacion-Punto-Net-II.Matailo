@@ -1,0 +1,8 @@
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\BARRADEESTADO\BARRADEESTADO\bin\Debug\BARRADEESTADO.exe
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\BARRADEESTADO\BARRADEESTADO\bin\Debug\BARRADEESTADO.pdb
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\BARRADEESTADO\BARRADEESTADO\obj\x86\Debug\BARRADEESTADO.Form1.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\BARRADEESTADO\BARRADEESTADO\obj\x86\Debug\BARRADEESTADO.Properties.Resources.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\BARRADEESTADO\BARRADEESTADO\obj\x86\Debug\BARRADEESTADO.csproj.GenerateResource.Cache
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\BARRADEESTADO\BARRADEESTADO\obj\x86\Debug\BARRADEESTADO.exe
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\BARRADEESTADO\BARRADEESTADO\obj\x86\Debug\BARRADEESTADO.pdb
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\BARRADEESTADO\BARRADEESTADO\obj\x86\Debug\BARRADEESTADO.csprojResolveAssemblyReference.cache
