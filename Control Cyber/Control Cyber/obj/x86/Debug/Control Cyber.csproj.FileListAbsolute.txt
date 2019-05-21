@@ -1,0 +1,8 @@
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Control Cyber\Control Cyber\bin\Debug\Control Cyber.exe
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Control Cyber\Control Cyber\bin\Debug\Control Cyber.pdb
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Control Cyber\Control Cyber\obj\x86\Debug\Control_Cyber.Form1.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Control Cyber\Control Cyber\obj\x86\Debug\Control_Cyber.Properties.Resources.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Control Cyber\Control Cyber\obj\x86\Debug\Control Cyber.csproj.GenerateResource.Cache
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Control Cyber\Control Cyber\obj\x86\Debug\Control Cyber.exe
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Control Cyber\Control Cyber\obj\x86\Debug\Control Cyber.pdb
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Control Cyber\Control Cyber\obj\x86\Debug\Control Cyber.csprojResolveAssemblyReference.cache
